@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shivasish_dey/static/css/main.e73acb91.chunk.css",
-    "main.js": "/shivasish_dey/static/js/main.ea3a7816.chunk.js",
-    "main.js.map": "/shivasish_dey/static/js/main.ea3a7816.chunk.js.map",
+    "main.css": "/shivasish_dey/static/css/main.44d6f782.chunk.css",
+    "main.js": "/shivasish_dey/static/js/main.fe180084.chunk.js",
+    "main.js.map": "/shivasish_dey/static/js/main.fe180084.chunk.js.map",
     "runtime-main.js": "/shivasish_dey/static/js/runtime-main.1c3430f0.js",
     "runtime-main.js.map": "/shivasish_dey/static/js/runtime-main.1c3430f0.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/shivasish_dey/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.6c1f406f.chunk.js.map": "/shivasish_dey/static/js/3.6c1f406f.chunk.js.map",
     "index.html": "/shivasish_dey/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/shivasish_dey/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.e73acb91.chunk.css.map": "/shivasish_dey/static/css/main.e73acb91.chunk.css.map",
+    "static/css/main.44d6f782.chunk.css.map": "/shivasish_dey/static/css/main.44d6f782.chunk.css.map",
     "static/js/2.eff84d28.chunk.js.LICENSE.txt": "/shivasish_dey/static/js/2.eff84d28.chunk.js.LICENSE.txt",
     "static/media/Pvn.777ef409.png": "/shivasish_dey/static/media/Pvn.777ef409.png",
     "static/media/js.fc490646.png": "/shivasish_dey/static/media/js.fc490646.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.1c3430f0.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.eff84d28.chunk.js",
-    "static/css/main.e73acb91.chunk.css",
-    "static/js/main.ea3a7816.chunk.js"
+    "static/css/main.44d6f782.chunk.css",
+    "static/js/main.fe180084.chunk.js"
   ]
 }
