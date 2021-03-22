@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/shivasish_dey/static/css/main.3d98220a.chunk.css",
-    "main.js": "/shivasish_dey/static/js/main.fe180084.chunk.js",
-    "main.js.map": "/shivasish_dey/static/js/main.fe180084.chunk.js.map",
+    "main.css": "/shivasish_dey/static/css/main.77c1395d.chunk.css",
+    "main.js": "/shivasish_dey/static/js/main.861e3bf8.chunk.js",
+    "main.js.map": "/shivasish_dey/static/js/main.861e3bf8.chunk.js.map",
     "runtime-main.js": "/shivasish_dey/static/js/runtime-main.1c3430f0.js",
     "runtime-main.js.map": "/shivasish_dey/static/js/runtime-main.1c3430f0.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/shivasish_dey/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.eff84d28.chunk.js": "/shivasish_dey/static/js/2.eff84d28.chunk.js",
-    "static/js/2.eff84d28.chunk.js.map": "/shivasish_dey/static/js/2.eff84d28.chunk.js.map",
+    "static/js/2.f9741b33.chunk.js": "/shivasish_dey/static/js/2.f9741b33.chunk.js",
+    "static/js/2.f9741b33.chunk.js.map": "/shivasish_dey/static/js/2.f9741b33.chunk.js.map",
     "static/js/3.6c1f406f.chunk.js": "/shivasish_dey/static/js/3.6c1f406f.chunk.js",
     "static/js/3.6c1f406f.chunk.js.map": "/shivasish_dey/static/js/3.6c1f406f.chunk.js.map",
     "index.html": "/shivasish_dey/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/shivasish_dey/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.3d98220a.chunk.css.map": "/shivasish_dey/static/css/main.3d98220a.chunk.css.map",
-    "static/js/2.eff84d28.chunk.js.LICENSE.txt": "/shivasish_dey/static/js/2.eff84d28.chunk.js.LICENSE.txt",
+    "static/css/main.77c1395d.chunk.css.map": "/shivasish_dey/static/css/main.77c1395d.chunk.css.map",
+    "static/js/2.f9741b33.chunk.js.LICENSE.txt": "/shivasish_dey/static/js/2.f9741b33.chunk.js.LICENSE.txt",
     "static/media/Pvn.777ef409.png": "/shivasish_dey/static/media/Pvn.777ef409.png",
     "static/media/js.fc490646.png": "/shivasish_dey/static/media/js.fc490646.png",
     "static/media/laravel.d60d9094.png": "/shivasish_dey/static/media/laravel.d60d9094.png",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.1c3430f0.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.eff84d28.chunk.js",
-    "static/css/main.3d98220a.chunk.css",
-    "static/js/main.fe180084.chunk.js"
+    "static/js/2.f9741b33.chunk.js",
+    "static/css/main.77c1395d.chunk.css",
+    "static/js/main.861e3bf8.chunk.js"
   ]
 }
