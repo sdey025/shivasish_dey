@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/shivasish_dey/static/css/main.e73acb91.chunk.css",
+    "main.js": "/shivasish_dey/static/js/main.ea3a7816.chunk.js",
+    "main.js.map": "/shivasish_dey/static/js/main.ea3a7816.chunk.js.map",
+    "runtime-main.js": "/shivasish_dey/static/js/runtime-main.1c3430f0.js",
+    "runtime-main.js.map": "/shivasish_dey/static/js/runtime-main.1c3430f0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/shivasish_dey/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.eff84d28.chunk.js": "/shivasish_dey/static/js/2.eff84d28.chunk.js",
+    "static/js/2.eff84d28.chunk.js.map": "/shivasish_dey/static/js/2.eff84d28.chunk.js.map",
+    "static/js/3.6c1f406f.chunk.js": "/shivasish_dey/static/js/3.6c1f406f.chunk.js",
+    "static/js/3.6c1f406f.chunk.js.map": "/shivasish_dey/static/js/3.6c1f406f.chunk.js.map",
+    "index.html": "/shivasish_dey/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/shivasish_dey/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e73acb91.chunk.css.map": "/shivasish_dey/static/css/main.e73acb91.chunk.css.map",
+    "static/js/2.eff84d28.chunk.js.LICENSE.txt": "/shivasish_dey/static/js/2.eff84d28.chunk.js.LICENSE.txt",
+    "static/media/Pvn.777ef409.png": "/shivasish_dey/static/media/Pvn.777ef409.png",
+    "static/media/js.fc490646.png": "/shivasish_dey/static/media/js.fc490646.png",
+    "static/media/laravel.d60d9094.png": "/shivasish_dey/static/media/laravel.d60d9094.png",
+    "static/media/logo.0bd02e60.png": "/shivasish_dey/static/media/logo.0bd02e60.png",
+    "static/media/logo.6ce24c58.svg": "/shivasish_dey/static/media/logo.6ce24c58.svg",
+    "static/media/mw10.1fbe907c.jpg": "/shivasish_dey/static/media/mw10.1fbe907c.jpg",
+    "static/media/mw2.d3bbed8f.jpg": "/shivasish_dey/static/media/mw2.d3bbed8f.jpg",
+    "static/media/mw3.76b993ee.jpg": "/shivasish_dey/static/media/mw3.76b993ee.jpg",
+    "static/media/mw4.496adb53.jpg": "/shivasish_dey/static/media/mw4.496adb53.jpg",
+    "static/media/mw5.4d7859bc.jpg": "/shivasish_dey/static/media/mw5.4d7859bc.jpg",
+    "static/media/mw6.a5ca1899.jpg": "/shivasish_dey/static/media/mw6.a5ca1899.jpg",
+    "static/media/mw7.d5af1e5a.jpg": "/shivasish_dey/static/media/mw7.d5af1e5a.jpg",
+    "static/media/mw9.d9f4ab5f.jpg": "/shivasish_dey/static/media/mw9.d9f4ab5f.jpg",
+    "static/media/myimg.cd5868bb.jpg": "/shivasish_dey/static/media/myimg.cd5868bb.jpg",
+    "static/media/rav.d81cdb32.jpeg": "/shivasish_dey/static/media/rav.d81cdb32.jpeg",
+    "static/media/swn.3370a9a8.jpg": "/shivasish_dey/static/media/swn.3370a9a8.jpg",
+    "static/media/xdvsfigma.94320f68.png": "/shivasish_dey/static/media/xdvsfigma.94320f68.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c3430f0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.eff84d28.chunk.js",
+    "static/css/main.e73acb91.chunk.css",
+    "static/js/main.ea3a7816.chunk.js"
+  ]
+}
