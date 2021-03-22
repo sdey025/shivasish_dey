@@ -33,6 +33,7 @@ import MainContent from "./MainContent";
 import Resume from "./Resume";
 import Blog from "./Blog";
 import Mywork from "./Mywork";
+import { FiMenu } from "react-icons/fi";
 function Home() {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -77,28 +78,28 @@ function Home() {
                 </NavbarBrand>
               </Col>
               <Col xs={6}>
-                <NavbarToggler onClick={toggle} id="coll" />
+                <NavbarToggler onClick={toggle} id="coll" ><FiMenu id="ee" /></NavbarToggler>
               </Col>
             </Row>
             <Collapse isOpen={isOpen} navbar>
               <Nav className="ml-auto mr-5" navbar>
                 <NavItem>
-                  <NavLink className="text-light" onClick={resume} href="#">
+                  <NavLink className="text-light" id="navl" onClick={resume} href="#">
                     Resume
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={seeblog} href="#">
+                  <NavLink className="text-light" id="navl" onClick={seeblog} href="#">
                     Blogs
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={about} href="#">
+                  <NavLink className="text-light" id="navl" onClick={about} href="#">
                     About me
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={work} href="#">
+                  <NavLink className="text-light" id="navl" onClick={work} href="#">
                     My Works
                   </NavLink>
                 </NavItem>
@@ -152,28 +153,28 @@ function Home() {
                 </NavbarBrand>
               </Col>
               <Col xs={6}>
-                <NavbarToggler onClick={toggle} id="coll" />
+                <NavbarToggler onClick={toggle} id="coll" ><FiMenu id="ee" /></NavbarToggler>
               </Col>
             </Row>
             <Collapse isOpen={isOpen} navbar>
               <Nav className="ml-auto mr-5" navbar>
                 <NavItem>
-                  <NavLink className="text-light" onClick={resume} href="#">
+                  <NavLink className="text-light" id="navl" onClick={resume} href="#">
                     Resume
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={seeblog} href="#">
+                  <NavLink className="text-light" id="navl" onClick={seeblog} href="#">
                     Blogs
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={about} href="#">
+                  <NavLink className="text-light" id="navl" onClick={about} href="#">
                     About me
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={work} href="#">
+                  <NavLink className="text-light" id="navl" onClick={work} href="#">
                   My Works
                   </NavLink>
                 </NavItem>
@@ -228,28 +229,28 @@ function Home() {
                 </NavbarBrand>
               </Col>
               <Col xs={6}>
-                <NavbarToggler onClick={toggle} id="coll" />
+                <NavbarToggler onClick={toggle} id="coll" ><FiMenu id="ee" /></NavbarToggler>
               </Col>
             </Row>
             <Collapse isOpen={isOpen} navbar>
               <Nav className="ml-auto mr-5" navbar>
                 <NavItem>
-                  <NavLink className="text-light" onClick={resume} href="#">
+                  <NavLink className="text-light" id="navl" onClick={resume} href="#">
                     Resume
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={seeblog} href="#">
+                  <NavLink className="text-light" id="navl" onClick={seeblog} href="#">
                     Blogs
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={about} href="#">
+                  <NavLink className="text-light" id="navl" onClick={about} href="#">
                     About me
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={work} href="#">
+                  <NavLink className="text-light" id="navl" onClick={work} href="#">
                   My Works
                   </NavLink>
                 </NavItem>
@@ -304,28 +305,28 @@ function Home() {
                 </NavbarBrand>
               </Col>
               <Col xs={6}>
-                <NavbarToggler onClick={toggle} id="coll" />
+                <NavbarToggler onClick={toggle} id="coll" > <FiMenu id="ee" /> </NavbarToggler>
               </Col>
             </Row>
             <Collapse isOpen={isOpen} navbar>
               <Nav className="ml-auto mr-5" navbar>
                 <NavItem>
-                  <NavLink className="text-light" onClick={resume} href="#">
+                  <NavLink className="text-light" id="navl" onClick={resume} href="#">
                     Resume
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={seeblog} href="#">
+                  <NavLink className="text-light" id="navl" onClick={seeblog} href="#">
                     Blogs
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={about} href="#">
+                  <NavLink className="text-light" id="navl" onClick={about} href="#">
                     About me
                   </NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="text-light" onClick={work} href="#">
+                  <NavLink className="text-light" id="navl" onClick={work} href="#">
                   My Works
                   </NavLink>
                 </NavItem>

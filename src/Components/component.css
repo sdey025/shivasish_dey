@@ -335,6 +335,10 @@
     margin-top: -70px !important;
     margin-bottom: 75px !important;
 }
+#ee{
+    color: #ffffff !important;
+    margin-top: 8px;
+}
 @keyframes anima{
     0%{
         width: 0px;
@@ -436,5 +440,8 @@
         top: -70px;
         margin-top: 30px !important;
         margin-bottom: 10px !important;
+    }
+    #navl{
+        margin-left: 190px;
     }
 }
